@@ -4,3 +4,4 @@ master: second commit
 dev: first commit
 dev: second commit
 features/do_one: first commit
+hotfix/we_gonna_die: first commit
